@@ -1,0 +1,14 @@
+<div class="container-fluid">
+  <div class="row">
+    <div *ngFor="let item of photos" class="col-md-3 mb-lg-4">
+      <div class="card" style="width: 18rem;">
+        <img src="{{item.thumbnailUrl}}" class="card-img-top" alt="...">
+        <div class="card-body  ">
+          <h5 class="card-title">{{item.title}}</h5>
+          <p class="card-text">{{item.title}}</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,"name":"mario","gender":"male","address":"pp"
+    },
+    {
+        "id":2,"name":"daliya","gender":"male","address":"pp"
+    },
+    {
+        "id":3,"name":"nika","gender":"female","address":"kp"
+    },
+    {
+        "id":4,"name":"sakda","gender":"male","address":"pp"
+    }
+]
